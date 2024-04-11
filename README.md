@@ -9,7 +9,7 @@
 
 <div align="center">
  
-🔭 I’m currently working on [SynDICA](link.com)
+🔭 I’m currently working on [SynDICA](https://github.com/Team-SynDICA/SynDICA)
 
 🌱 I’m currently learning **ReactJS, PHP, Javascript**
 
