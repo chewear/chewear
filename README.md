@@ -21,7 +21,7 @@
 
 </div>
  
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">💬 Contacts 💬</h2>
 <div align="center"> 
     <a href="https://linkedin.com/in/bob myron reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bob myron reyes" height="30" width="40" /></a>
     <a href="https://fb.com/bobmyron.36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bobmyron.36" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ My Stack ⚒️</h2>
+<h2 align="center">⚒️ My Stacks ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,java,cpp,cs,nodejs,androidstudio,mysql,ai,ps,xd,blender,figma,unity,git" />
