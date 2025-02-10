@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning **ReactJS, PHP, Javascript**
 
-👨‍💻 All of my projects are available at [my portfolio](https://chewear.github.io/nportfolio/)
+👨‍💻 All of my projects are available at [my portfolio](https://myron.website/)
 
 📫 How to reach me **myron.reyes37@gmail.com**
 
