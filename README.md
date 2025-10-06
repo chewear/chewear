@@ -9,9 +9,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on [SynDICA](https://github.com/Team-SynDICA/SynDICA)
+🔭 I’m currently working on [Updating My Portfolio]()
 
-🌱 I’m currently learning **ReactJS, PHP, Javascript**
+🌱 I’m currently learning **ReactJS, PHP, Javascript, Python**
 
 👨‍💻 All of my projects are available at [my portfolio](https://myron.website/)
 
